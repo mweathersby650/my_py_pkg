@@ -29,6 +29,7 @@ setup(
             "add_two_ints_client = my_py_pkg.add_two_ints_client:main",
             "add_two_ints_client_no_oop = my_py_pkg.add_two_ints_client_no_oop:main",
             "hw_status_publisher = my_py_pkg.hw_status_publisher:main"
+            
         ],
     },
 )
